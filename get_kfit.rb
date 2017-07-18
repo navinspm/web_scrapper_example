@@ -30,7 +30,9 @@ class Scraper
 
   # Fetching details from partners URLs
 	def scrape_details(partner_urls)
+		header = ["City","Partner Name","Address","Latitude","Longitude"]
 		csv_data = []
+		csv_data << header
 		p url = "#{@base_url}#{partner_urls.first}"
 		#p 'Started scraping '+ url
 		scrap_page = @mechanize.get(url)
@@ -39,7 +41,16 @@ class Scraper
 		lat_lng = scrap_page.search('.studio-sidebar script')[0].children.to_s.split("LatLng")[1].split("'")
     latitude =  lat_lng[1]
     longitude =  lat_lng[3]
-		csv_data << [@city, partner_name, address,latitude,longitude]
+		csv_data << [@city.capitalize, partner_name, address,latitude,longitude]
+	end
+
+	def export_csv(csv_data)
+    File.open("kfit_partners.csv", "w") do |csv|
+    	csv_data.each do |data|
+	  		csv << data
+	  		csv << "\n"
+		  end
+		end
 	end
 
 end
@@ -55,4 +66,7 @@ partner_urls = scrape.get_partners_url(2)
 p '-------------------------------------------'
 p 'Scrape  Details'
 p csv_data = scrape.scrape_details(partner_urls)
+p '-------------------------------------------'
+p 'Export to CSV'
+export_csv = scrape.export_csv(csv_data)
 
