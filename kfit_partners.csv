@@ -1,4 +1,4 @@
-City,Partner Name,Address,Latitude,Longitude,Phone Number
+City,Partner Name,Address,Latitude,Longitude,Avarage Rating,Phone Number
 Kuala-lumpur,Crazy Monkey Defense : Boxing ,"9 Jalan Riong, Bangsar, Kuala Lumpur 59100",3.127443,101.674112,5.0,""
 Kuala-lumpur,Yoga Deep ,"Lot No.516, No.31 Jalan Cinta Alam, Country Height, 43000 Kajang ,Malaysia.",2.9935941,101.7431581,5.0,""
 Kuala-lumpur,Marriott Putrajaya ,"Putrajaya Marriott Hotel, IOI Resort City, 62502, Sepang Utara, Malaysia.",2.970078,101.706476,5.0,""
@@ -60,3 +60,349 @@ Kuala-lumpur,Discovery Pilates Studio ,"241b Lorong Nibong, off Jalan Ampang, 5
 Kuala-lumpur,SweatSpa GE MALL ,"Lot 8, Level 4, Great Eastern Mall, 303 Jalan Ampang,
 50450 Kuala Lumpur, Malaysia",3.160207,101.736846,4.6,60342652288
 Kuala-lumpur,District 13 ,"No. 5, Bangunan TH, Jalan Bersatu 13/4, Seksyen 13, 46200 Petaling Jaya",3.114858,101.638689,4.6,60126585738
+Kuala-lumpur,TreYoga ,Unit D3A-9 Dana 1 Commercial Centre Jalan PJU 1A/46,3.110639,101.584155,4.6,60166026368
+Kuala-lumpur,WanaFit ,"63A-2, Block F, Zenith Corporate Park, Jalan SS7/26, Kelana Jaya",3.105682,101.593268,4.6,60173477104
+Kuala-lumpur,Z Fit Dance Fitness ,"No 60, Jalan Damai Raya 2, Alam Damai Cheras, Kuala Lumpur",3.06233,101.744115,4.6,60174795376
+Kuala-lumpur,Fitness Rx @ Fitology Intermark ,"Lot 2-01, The Intermark Mall, 348, Jalan Tun Razak, 50400 Kuala Lumpur",3.161334,101.720242,4.6,60321818698
+Kuala-lumpur,YogArt ,"No.25 Jalan Sungai Dua, Taman Seputeh, 58000 Kuala Lumpur, Malaysia",3.115885,101.682479,4.6,60176010123
+Kuala-lumpur,The Outlaw ,"No. 5, Jalan 6/10, Taman Subang Permai, Selangor",3.044072,101.599719,4.6,60380812853
+Kuala-lumpur,Fuel Studio ,"51-1, Jalan Sepah Puteri 5/1B, Kota Damansara, 47810 Petaling Jaya, Selangor, Malaysia",3.154951,101.583472,4.6,60176392382
+Kuala-lumpur,Joint Functional Screening @ BainsPhysio Fitness ,"9127 A, Jalan Bandar 4, Taman Melawati, 53100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.210545,101.752164,4.6,60341073566
+Kuala-lumpur,Motion Gymnastics ,"L1-11, Cova Square, Jalan Teknologi, 47810 Petaling Jaya, Selangor",3.147874,101.5746509,4.6,60166883835
+Kuala-lumpur,onethreeseven ,"C12-2 Jln Ampang Utama 1/1, Taman Ampang Utama, Ampang 68000 Selangor.",3.154673,101.751214,4.6,60342665558
+Kuala-lumpur,Fitology ,"9, Jalan Riong, Off Jalan Maarof, Bangsar, 59100 Kuala Lumpur",3.127282,101.674016,4.5,60322014311
+Kuala-lumpur,Organica Lifestyle ,"66 Lorong Maarof, Bangsar
+Kuala Lumpur",3.131336,101.673096,4.5,""
+Kuala-lumpur,Impulse Studio ,"Platinum Sentral G08, 2 Jalan Stesen Sentral, 50470, Kuala Lumpur",3.1363837,101.6864628,4.5,""
+Kuala-lumpur,Brasil Fitness (formerly known as Arte E Vida Dance Studio) ,"12, Jalan Solaris 3, Solaris Mont Kiara, 50480 Kuala Lumpur",3.174984,101.659444,4.5,60167132585
+Kuala-lumpur,Yoga Hive ,"4, Lorong Rahim Kajai 14
+Taman Tun Dr Ismail
+60000 Kuala Lumpur
+Wilayah Persekutuan Kuala Lumpur",3.154388,101.623019,4.5,60192896338.
+Kuala-lumpur,Twin Towers Fitness Centre ,"Concourse Level, PETRONAS Twin Towers, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Malaysia",3.15878,101.710939,4.5,60323312052
+Kuala-lumpur,Far Infrared (FIR) Therapy Sauna @ Fitology Bangsar ,"9, Jalan Riong, Off Jalan Maarof, Bangsar, 59100 Kuala Lumpur",3.127282,101.674016,4.5,60322014311
+Kuala-lumpur,Fitlab ,"86, Jalan Limau Nipis, Bangsar Park, 59000 KL",3.133501,101.67452,4.5,60182170945
+Kuala-lumpur,Jazzercise Mont Kiara ,"Suite B-10-5, Plaza Mont Kiara, 2, Jalan Kiara,
+Mont Kiara, Kuala Lumpur 50480",3.165304,101.651901,4.5,60126283020
+Kuala-lumpur,Fuel Athletics ,"No 3, Pinggiran Setia Budi, Pusat Komuniti, Bukit Damansara, 50490 Kuala Lumpur",3.150661,101.656687,4.5,""
+Kuala-lumpur,Cross Muay Thai ,"100-G, 009 The School@Jaya One 
+72A, Jalan Universiti
+Seksyen 13
+46200 Petaling Jaya, Selangor",3.1187211,101.6332294,4.5,""
+Kuala-lumpur,Lockdown ,"T19, Level 3, Lot 10 Shopping Centre,50250,Kuala Lumpur,KUALA LUMPUR",3.146841,101.711625,4.5,601117230151
+Kuala-lumpur,Honey Badgers ,"C-G-45, Block Camilia, 10 Boulevard, Lebuhraya Sprint, PJU 6A, 47400 Petaling Jaya, 47400 Petaling Jaya, Malaysia",3.1302595,101.6129332,4.5,""
+Kuala-lumpur,Pushmore Fitness Centre ,"B-G-23, Block B, Merchant Square, Jalan Tropicana Selatan 1, 47301 Petaling Jaya, Selangor",3.1334655,101.6008423,4.5,60378870120
+Kuala-lumpur,Viva Vertical (Pole Dance) ,"G-02, Heritage House, 33 Jalan Yap Ah Shak, 50300 Kuala Lumpur",3.1577438,101.700469,4.5,""
+Kuala-lumpur,Ascott Kuala Lumpur ,"9, Jalan Pinang, Kuala Lumpur, 50450 Kuala Lumpur",3.154747,101.710626,4.5,""
+Kuala-lumpur,Classic Yoga ,"55-3, 2nd Floor, USJ 9/5S, UEP, Subang Jaya, 47620",3.046954,101.586469,4.5,""
+Kuala-lumpur,MovePlay Fat-Shred Bootcamp ,"PUBLIC PARK, TAMAN ZAABA, TAMAN TUN DR ISMAIL, KUALA LUMPUR",3.143309,101.624592,4.5,""
+Kuala-lumpur,Ladies Club Fitness Centre ,"No 22B Jalan Tengku Ampuan Zabedah K 9/K, 40100 Shah Alam, Malaysia",3.084301,101.525981,4.5,""
+Kuala-lumpur,Yokkao Training Center ,"11-3-1, Taman Danau Desa Business Centre, Jalan 3/ 109F Taman Desa 58100 Kuala Lumpur",3.1000517,101.687594,4.5,""
+Kuala-lumpur,Illusions Dance Academy ,"90-1, Jalan Tun Sambanthan, Kuala Lumpur, Malaysia",3.133107,101.688078,4.5,60126532779
+Kuala-lumpur,Fitin30 ,"Pusat Komuniti Bukit Damansara, No 3, Jalan Setia Budi, Bukit Damansara, Kuala Lumpur, 50490 (At the basketball court)",3.150672,101.656709,4.5,""
+Kuala-lumpur,Mad Monkeyz Climbing Gym ( Beginner ) ,"19-1, Jalan Metro Wangsa, sect 2, wangsa maju, 53300, KL",3.2054875,101.7356537,4.5,603 4142 0698
+Kuala-lumpur,Just Gym ,"17A, Jalan SS 24/8, Taman Megah, 47301 Petaling Jaya, Selangor",3.113606,101.611582,4.5,60175765955
+Kuala-lumpur,The Golden Space Malaysia ,"27-2, Jalan PJU 5/20 Kota Damansara 47810 Petaling Jaya Selangor",3.153942,101.592857,4.5,60361427218
+Kuala-lumpur,QLS Fitness ,"Block F-08-01, Plaza Kelana Jaya, Jalan SS 7/13a, SS 7, 47301 Petaling Jaya, Selangor",3.095228,101.598685,4.5,""
+Kuala-lumpur,Freedom Dance Studio ,"11, Jalan Prima Setapak 3
+Taman Setapak
+53000 Kuala Lumpur
+Wilayah Persekutuan Kuala Lumpur",3.197742,101.712195,4.5,60129134400
+Kuala-lumpur,Arena 51 ,"1.011, The School, Jaya One , 72A, Jalan Universiti , Seksyen 13, 46200 Petaling Jaya",3.117295,101.635552,4.5,""
+Kuala-lumpur,Aesthetic Brazilian Jiu-Jitsu ,"2nd Floor, No. 68, Jalan SS15/4D, Subang Jaya, 47500, Petaling Jaya, Selangor
+47500",3.073574,101.589397,4.5,601123238428
+Kuala-lumpur,Country Club Fitness FTX ,"4th Floor, Patent House, Jalan Bukit Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.147435,101.71183,4.5,""
+Kuala-lumpur,Yoga May Class ,"22, Jalan SL 1/12, Bandar Sungai Long, 43000 Kajang, Selangor",3.042204,101.791683,4.5,""
+Kuala-lumpur,Dragon Muay Thai Club ,"4th floor, Jalan Alor,
+Bukit Bintang
+Wisma City tower
+50200 KL",3.1476678,101.7054061,4.5,""
+Kuala-lumpur,Life Wellness Management ,"33-1, Jalan Puteri 2/3, Bandar Puteri, 47100 Puchong, Selangor, Malaysia",3.022233,101.616626,4.5,60149092388
+Kuala-lumpur,D'Popeye Gym ,"No 8-1 Jalan 42/26, Taman Sri Rampai, Setapak, 53300 Kuala Lumpur, Malaysia",3.193877,101.732384,4.5,""
+Kuala-lumpur,Home Life Fitness ,"No. 9-1, Jalan Temenggung 9/9, Seksyen 9, Bandar Mahkota Cheras, 43200 Cheras, Selangor",3.052406,101.787491,4.5,""
+Kuala-lumpur,Yoga Moment ,"13-3-1, Jalan Prima A, U13/A, Setia Alam, Seksyen U13, 40170 Shah Alam, Malaysia",3.097588,101.444181,4.5,60163287612
+Kuala-lumpur,I Love My Club ,"Lot 24A, Jalan Mamanda 4, Ampang Point Ampang, 68000",3.157929,101.750418,4.5,""
+Kuala-lumpur,Ekta Holistic Centre ,"27-2, Jalan Puteri 2/6, Bandar Puteri, 47100 Puchong, Selangor",3.02248,101.617634,4.5,60123159389
+Kuala-lumpur,HardCore Gym Club ,"No 1-3, Jalan PJS 8/11, Dataran Mentari, 46150 Petaling Jaya, Selangor",3.077607,101.610532,4.5,""
+Kuala-lumpur,Rhythm Identity Dance Academy ,"No. 173A, Jalan Aminuddin Baki, Taman Tun Dr. Ismail, Wilayah Persekutuan, 60000 Kuala Lumpur, Malaysia",3.153679,101.62304,4.5,""
+Kuala-lumpur,Super Yoga Kids ,"3, Jalan Ang Seng 3, 
+Brickfields, 
+50470, Kuala Lumpur.",3.1274095,101.6800821,4.5,""
+Kuala-lumpur,Xin Studio ,"18-3-1 Jalan Setia Prima B U13/B, 40170 Shah Alam, Malaysia",3.097408,101.445755,4.5,""
+Kuala-lumpur,Movimento Simples de Capoeira Malaysia ,"Casa do Capoeira
+B-3-2, Blk B Plaza Damas,
+60, Jalan Sri Hartamas 1,
+50480 Kuala Lumpur",3.1641621,101.6558728,4.5,""
+Kuala-lumpur,Fitbox ,"49-1, Jalan Mawar 15, Dataran Mestika, Jalan Kuari, Taman Bukit Permai, 56100, Selangor",3.113299,101.755611,4.5,60169153927
+Kuala-lumpur,Fitlife Gym ,"No 1-2 Jalan 3/76D, Desa Pandan, 55100 Kuala Lumpur, Malaysia",3.146304,101.736194,4.5,""
+Kuala-lumpur,ML Yoga ,"ML Yoga Studio 2nd Floor, 18-2, Jalan Prima Setapak 1 Off Jalan Genting Kelang, Wilayah Persekutuan 53300 Kuala Lumpur",3.196849,101.71359,4.5,""
+Kuala-lumpur,Inhale Exhale Pilates Studio ,"N-2-2 Plaza Damas Jalan Sri Hartamas 1 Taman Sri Hartamas 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.163679,101.65565,4.5,""
+Kuala-lumpur,Redmouse Dance Academy ,"36-2 Jalan PJS 8/2, Dataran Menteri Bandar Sunway, 46150 Petaling Jaya, Selangor, Malaysia.",3.0749,101.612296,4.5,""
+Kuala-lumpur,Grupo Capoeira Cordao de Ouro Malaysia ,"19-3 Right Angle,Jalan 14/22, Petaling Jaya, Selangor",3.111321,101.633971,4.5,60173874089
+Kuala-lumpur,Seed Wing Chun Combat Systems ,"Jalan Anggerik Doritis 31/143, Kota Kemuning, 40460 Shah Alam, Selangor, Malaysia",2.984824,101.540945,4.5,""
+Kuala-lumpur,Yoga2Self ,"1, Lorong 8/1D, Seksyen 8, 46050 Petaling Jaya, Selangor, Malaysia (opposite PJ Police Station)",3.099257,101.641195,4.5,60123372796
+Kuala-lumpur,Harimau Gym ,"No 1-2 & 1-3 Jalan Nova U5/N, Seksyen U5, Subang Bestari
+Shah Alam, Malaysia",3.1763,101.548459,4.5,60377347690
+Kuala-lumpur,Breazy Yoga ,"29A & 29B, Jln. Seri Baiduri 1, Tmn. Seri Baiduri, off Jln. Bandar Teknologi, Kajang 43500 Semenyih, Selangor.",2.973037,101.828032,4.5,""
+Kuala-lumpur,Bricks and Barbells ,"No. 2-2, Sutera Square, Jalan PJU 10/5A, Taman Sutera Damansara, 47830, Petaling Jaya, Selangor, Malaysia",3.186282,101.597673,4.5,""
+Kuala-lumpur,DAK Fitness Studio & Therapy ,"20, Jalan Temenggung 19/9, Bandar Mahkota Cheras, 43200 Cheras, Selangor",3.05348,101.786961,4.5,""
+Kuala-lumpur,Metta Hot Yoga ,"143A, Jalan SS17/1A 47500 Subang Jaya",3.073725,101.57975,4.5,0356132662
+Kuala-lumpur,Kambiz Warrior Gym ,"98C, Lorong Memanda 2, Ampang Point, Jalan Ampang, 68000 Selangor, Malaysia",3.158512,101.751762,4.5,""
+Kuala-lumpur,Future Fitness Gym ,"17-1, Jalan Ungu B U9/B, Seksyen U9, 40150 Shah Alam, Malaysia. (Behind Shell station)",3.128013,101.519809,4.5,""
+Kuala-lumpur,Ladies Club Fitness Centre (PT) ,"No 22B Jalan Tengku Ampuan Zabedah K 9/K, 40100 Shah Alam, Malaysia",3.084301,101.525981,4.5,""
+Kuala-lumpur,T3 Center (Aikido & Shorinji Kempo) ,"A-2-2, Jalan PJU 1A/3, Taipan 2 Damansara, Ara Damansara, 47301 Petaling Jaya.",3.120192,101.576794,4.5,60193830992
+Kuala-lumpur,Shadow PGS Martial Arts Gym ,"No. 47B, Jalan PS8, Taman Prima Selayang, 68100 Batu Caves, Selangor Darul Ehsan
+Kuala Lumpur, Malaysia",3.245325,101.651321,4.5,""
+Kuala-lumpur,Puchong Healthy Life House ,"Puchong Prima, Block A, Pusat Perdagangan Prima, Jalan Prima 5/2, Taman Puchong Prima (Meetup Point: Infront the Entrance of KFCH College)",3.001087,101.596292,4.5,""
+Kuala-lumpur,The Yogic Science ,"No. 16-2, Jalan SS2/61, 47300, Petaling Jaya, Selangor.",3.117355,101.621602,4.5,""
+Kuala-lumpur,Aurora Fitness Studio ,"107-1, Jalan Nautika A U20/A, Pusat Komersil TSB, 40160 Sungai Buloh",3.208794,101.569085,4.5,""
+Kuala-lumpur,Ara Courts Badminton Hall ,"Lot 997, Jalan Dahalia, Kampung Sungai Kayu, 47400, Petaling Jaya, Selangor",3.128091,101.609131,4.5,""
+Kuala-lumpur,NS Iron Fitness & Gym ,"No 2A-2, Jalan Raya Dua, 43300 Seri Kembangan",3.019809,101.712568,4.5,""
+Kuala-lumpur,Physiowerkz ,"A2-02-06 Publika, Solaris Dutamas 1,  Jalan Dutamas 1, 50480 Kuala Lumpur, Malaysia",3.170981,101.665914,4.5,""
+Kuala-lumpur,Anytime Fitness Wisma BU8 ,"Wisma BU8, 11 Lebuh Raya Bandar Utama Petaling Jaya, Selangor 47800",3.136008,101.608646,4.4,60374966233
+Kuala-lumpur,Jump Street ,"No 8A Jalan 13/6 Seksyen 13,46200,Petaling Jaya,SELANGOR",3.116443,101.634121,4.4,60379691051
+Kuala-lumpur,Jazzercise Ara Damansara ,"G-2-5, Block G, Taipan 2, Jalan PJU 1A/3, Ara Damansara, 47301 Petaling Jaya, Selangor",3.1182307,101.5781005,4.4,60193873193
+Kuala-lumpur,Backstage Dance & Fitness Studio ,"Backstage Dance & Fitness Studio,
+B-1-13A, Block B, Oasis Ara Damansara,Jalan PJU 1a/7,
+Ara Damansara 47301 Petaling Jaya, Selangor
+( Above Affin Bank )",3.113966,101.575074,4.4,60162063316
+Kuala-lumpur,Jazzercise Stomp Petaling Jaya ,"30-3, Jalan 14/22, Seksyen 14, 46100 Petaling Jaya, Selangor
+Seksyen 14
+46100 Petaling Jaya",3.110873,101.634026,4.4,60126796171
+Kuala-lumpur,Knockout FC ,"167, Jalan Aminuddin Baki, Taman Tun Dr Ismail, 60000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.153621,101.622783,4.4,60377323214
+Kuala-lumpur,Ease Yoga Studio ,"No. 35-1, Jalan 3/62A, Taman Spk, Bandar Baru Menjalara, Kepong, Wilayah Persekutuan Kuala Lumpur, 52200 Kuala Lumpur",3.195102,101.629941,4.4,60176462700
+Kuala-lumpur,Clark Hatch Fitness Center (Gym Access) ,"Hilton Petaling Jaya 2, Jalan Barat, Seksyen 52, 46200 Petaling Jaya, Selangor, Malaysia",3.102413,101.640992,4.4,60123176982
+Kuala-lumpur,The Club@Bukit Utama (Swimming Pool Access) ,"1, Club Drive, Bukit Utama, Bandar Utama, 47800 Petaling Jaya",3.15234,101.602845,4.4,60377255199
+Kuala-lumpur,Viva Vertical (Flyoga) ,"G-02, Heritage House, 33 Jalan Yap Ah Shak, 50300 Kuala Lumpur",3.1577438,101.700469,4.4,""
+Kuala-lumpur,Mercato Fitness Studio ,"33, 13, Jalan Rampai Niaga 5, Rampai Business Park, 53300 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.199129,101.728768,4.4,60192176090
+Kuala-lumpur,BainsPhysio Fitness ,"9127 A, Jalan Bandar 4, Taman Melawati, 53100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.210545,101.752164,4.4,60341073566
+Kuala-lumpur,Bolder Ventures ,"11, Jalan Industri USJ 1/2, Taman Perindustrian USJ 1, 47600 Subang Jaya, Selangor, Malaysia",3.0449273,101.6048887,4.4,60380234948
+Kuala-lumpur,Mad Monkeyz Climbing Gym ,"19-1, Jalan Metro Wangsa, sect 2, wangsa maju, 53300, KL",3.2054875,101.7356537,4.4,60341420698
+Kuala-lumpur,STOMP Fitness ,"30-3, Jalan 14/22, Seksyen 14, 46100 Petaling Jaya, Selangor, Malaysia",3.110745,101.634015,4.4,60126796171
+Kuala-lumpur,Dance Garage ,"No, 28 Jalan 14/27B, Desa Setapak, 53300, Kuala Lumpur, Wilayah Persekutuan, Malaysia",3.205464,101.733043,4.4,60167156125
+Kuala-lumpur,Grit Nation Subang ,"31, Jalan PJ5 11/18, Bandar  Sunway, Petaling Jaya",3.069331,101.600103,4.4,60166463016
+Kuala-lumpur,Jazzercise Damansara Jaya ,"19, Jalan SS 22/23
+Ss 22
+47400 Petaling Jaya
+Selangor",3.12774,101.6172487,4.3,60193873193
+Kuala-lumpur,The Club@Bukit Utama (Gym Access) ,"1, Club Drive, Bukit Utama, Bandar Utama, 47800 Petaling Jaya",3.15234,101.602845,4.3,60377255199
+Kuala-lumpur,Anytime Fitness Solaris ,"No 2 Jalan Solaris Mont Kiara L01 Lot 2-11 Soho KL, Solaris Mt. Kiara Mont Kiara, Kuala Lumpur",3.176299,101.659788,4.3,""
+Kuala-lumpur,Talent Hub ,"19-2, Jalan 19/70a, Desa Sri Hartamas, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.160611,101.650019,4.3,60162858353
+Kuala-lumpur,360 Active ,"Palladium Studio, The Club @ Bukit Utama, Persiaran Surian, Bandar Utama, 47800 Petaling Jaya, Selangor",3.152316,101.6028652,4.3,60166077097
+Kuala-lumpur,FitWorx ,"PJ Palms Sports Center, No. 1, Lorong Sultan, 46200 Petaling Jaya, Selangor Darul Ehsan, Malaysia",3.101444,101.646138,4.3,60379562321
+Kuala-lumpur,PJ Palms Sports Centre ,"Lorong Sultan, Seksyen 52, 46200 Kuala Lumpur, Selangor, Malaysia",3.101441,101.64614,4.3,""
+Kuala-lumpur,Celebrity Fitness ,"2FK-09 & 8F-01, Second Floor & Eighth Floor, The Main Place, Jalan USJ 21/10, Persiaran Kewajipan, 47630 Subang Jaya, Selangor",3.026183,101.581145,4.3,6031300222348
+Kuala-lumpur,Jazzfit Resources ,"G-2-5, Block G, Taipan 2, Jalan PJU 1A/3, Ara Damansara, 47301 Petaling Jaya, Selangor",3.118962,101.578014,4.3,60193873193
+Kuala-lumpur,Dreams Dance Studio ,"37C, Jalan SS15/4 , 47500 Subang Jaya (Above Double A Photocopy shop, the same row as Pontian Noodle House)",3.075984,101.589503,4.3,""
+Kuala-lumpur,Rockafella Gym ,"No. 1, Jalan Pandan Prima 1, Dataran Pandan Prima, 68000 Ampang, Selangor",3.1419344,101.7419636,4.3,60126742087
+Kuala-lumpur,Cosmoves Dance ,"Changkat Bukit Bintang, Bukit Bintang, 50200 Kuala Lumpur",3.147906,101.706979,4.3,60166756451
+Kuala-lumpur,Oscillation Yoga KL ,"The Row, Jalan Doraisamy, Chow Kit, 50300, Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur Malaysia",3.158476,101.699445,4.3,""
+Kuala-lumpur,Steppin Dance Studio ,"25-1, Jalan Puteri 1/6, Bandar Puteri, 47100 Puchong, Selangor, Malaysia",3.026372,101.617365,4.3,60123039140
+Kuala-lumpur,Berjaya Times Square Hotel ,"1, Jalan Imbi, Imbi, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.142396,101.709647,4.3,""
+Kuala-lumpur,Monster Fit ,"Brickfields Asia College - VSQ @ PJ City Centre Block 4, Level 3A, Jalan Utara, 46200 Section 14 Selangor",3.107482,101.639918,4.3,60379316120
+Kuala-lumpur,Amped Trampoline Park ,"The Club, 1 Club Drive, Bukit Utama, Bandar Utama, Lower Ground Level, 47800 Petaling Jaya, Selangor, Malaysia",3.152436,101.602859,4.3,""
+Kuala-lumpur,Alamak Dance Studio ,"No 6-2, Jalan PJS 8/17, Dataran Mentari, Bandar Sunway, 46150 Petaling Jaya, Selangor, Malaysia",3.078128,101.612192,4.3,""
+Kuala-lumpur,MAYI Yoga Academy ,"89A & B (1st and 2nd Floor), Jalan SS21/37, Damansara Utama, 47400, Petaling Jaya, Selangor.",3.1347252,101.6237206,4.2,60377266682
+Kuala-lumpur,Anytime Fitness Nexis ,"2, Jalan PJU 5/10 Kota Damansara 47810 Petaling Jaya Selangor",3.151492,101.592441,4.2,60361508033
+Kuala-lumpur,Sports Toto Fitness ,"Lot 06-16, Level 6, Central, 
+Berjaya Times Square,
+No.1, Jalan Imbi, 
+55100 Kuala Lumpur",3.143087,101.709926,4.2,60321482626
+Kuala-lumpur,Musica Music & Dance Academy ,"49-2 Jalan Damai Niaga, Alam Damai, Cheras, 56000 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.0745517,101.7362098,4.2,60391078060
+Kuala-lumpur,Anytime Fitness Taman Desa ,"Lots 211-215B, Podium Block, Faber Towers Taman Desa, Kuala Lumpur",3.102339,101.685068,4.2,60328587080
+Kuala-lumpur,Scitec Fitness Center ,"59-1,Jalan Damai Niaga 1, Alam Damai 56100 Cheras , Kuala Lumpur",3.073863,101.738948,4.2,60162755646
+Kuala-lumpur,Fysio Fitness ,"No.19-1, Jalan Temenggung 23/9, Bandar Mahkota Cheras, 43200 Cheras, Selangor",3.054155,101.7872671,4.2,60389339522
+Kuala-lumpur,Lola Fitness Studio ,"G67-1, Jalan Teknologi 3/9, 47810, Damansara, Selangor, 47810, Malaysia",3.165976,101.573897,4.2,""
+Kuala-lumpur,Anytime Fitness Qliq ,"1st Floor, Empire Damansara, No. 2, Jalan PJU 8/8A, Damansara Perdana, Selangor",3.166177,101.612091,4.2,6037611 7333
+Kuala-lumpur,Fitness Empire ,"19 & 21, Jalan Setia Dagang AJ U13/AJ, Setia Alam, 40170 Shah Alam, Selangor",3.1081226,101.4684778,4.2,60333597537
+Kuala-lumpur,Avengers Gym & Fitness ,"D1-01, Jalan 1/152, Taman OUG Parklane, 58200 Kuala Lumpur",3.06993,101.656238,4.2,60124578642
+Kuala-lumpur,Hing Yoga and Dance ,"No.38 - 2, Jalan 4/1. Seksyen 4, Taman Bukit Serdang 43300 Seri Kembangan Selangor",3.020161,101.700494,4.2,60149655031
+Kuala-lumpur,Lara's Place ,"3A, Jalan 17/45, 46400,
+Petaling Jaya, Selangor, Malaysia",3.1186154,101.6295813,4.2,60379568768
+Kuala-lumpur,Living Arts Dance Studio ,"Lot S-07 & S-08, 2nd Floor, Jalan BK 5A/1
+Giant Hypermarket, 
+Bandar Kinrara
+47100 Puchong, Selangor",3.049712,101.646546,4.2,60127357244
+Kuala-lumpur,Victory Fitness ,"A-02-08 & A-03-08, StarParc Point, Jalan Taman Ibukota, Setapak, 53300 Kuala Lumpur (opposite KL Festival City)",3.211537,101.715843,4.2,019-6965377
+Kuala-lumpur,Global Elite Gym ,"5-2-12, 3/109F, Taman Danau Desa, Danau Desa Business Centre, 58100 Kuala Lumpur",3.1007114,101.6869687,4.2,60126040890
+Kuala-lumpur,Roller Sports World ,"Bangsar Shopping Centre, No.285, Jalan Maarof, Bukit Bandaraya, 59000 Kuala Lumpur, Malaysia",3.143217,101.667724,4.2,0123911529
+Kuala-lumpur,Body Engineers Fitness ,"19, Jalan PJU 8/5i, Seksyen 5 Kota Damansara, 47820 Petaling Jaya, Selangor, Malaysia",3.166901,101.606746,4.2,60377320204
+Kuala-lumpur,Jazzercise Kepong Menjalara ,"Jalan 3/62A, Bandar Menjalara, 27-2 Kepong, Kuala Lumpur 52200",3.1951256,101.6296016,4.1,""
+Kuala-lumpur,BKS Iyengar Yogashala ,"#41-2, Jalan 109E, Desa Business Park, Opp. Desa Medical Centre, Off Old Klang Road, Taman Desa 58100, Kuala Lumpur, Malaysia",3.0984616,101.6777047,4.1,60379829979
+Kuala-lumpur,Target Fitness ,"Bangunan Sultan Salahuddin Abdul Aziz Shah, 16 Jalan Utara, 46200 Petaling Jaya, Selangor",3.10862,101.643711,4.1,60122387900
+Kuala-lumpur,D'Votion The Superdancer Studio ,"Wisma Low Siew Eng, No. 3-1 Jalan 1/92C, Batu 3 1/4, Jalan Cheras, 56100 Kuala Lumpur",3.120575,101.728013,4.1,60162607811
+Kuala-lumpur,Clark Hatch Fitness Center (Swimming Pool Access) ,"Hilton Petaling Jaya 2, Jalan Barat, Seksyen 52, 46200 Petaling Jaya, Selangor, Malaysia",3.102413,101.640992,4.1,60379572939
+Kuala-lumpur,The Club@Bukit Utama (Badminton Court Hire) ,"1, Club Drive, Bukit Utama, Bandar Utama, 47800 Petaling Jaya",3.15234,101.602845,4.1,60377255199
+Kuala-lumpur,Elitez MMA ,"Lot 10998, Jalan Sg Jati, 41000 Klang, Selangor",3.018812,101.458017,4.1,60173699999
+Kuala-lumpur,Xtreme Hardcore Gym & Fitness ,"8-2 Lorong Dataran Wangsa, Dataran Wangsa Melawati, Wangsa Melawati, 53300 Kuala Lumpur",3.207281,101.743177,4.1,60341416317
+Kuala-lumpur,AKO Fitness ,"AKO Fitness Dance Academy, No. 10, Jalan 11/55c, Taman Setiawangsa, 54200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, Malaysia",3.185407,101.742028,4.1,""
+Kuala-lumpur,Inspired Yoga Studio ,"No.8-2 & 10-2 Jalan Metro Perdana 8, Taman Usahawan Kepong, Kuala Lumpur, Malaysia",3.2145096,101.6424513,4.0,60122205512
+Kuala-lumpur,Anytime Fitness Oasis ,"F1-02, F1-03, F1-04 & F1-05, Oasis Village, 2 Jalan PJU 1A/7A, Oasis Damansara Ara Damansara, Selangor 47301",3.114502,101.574803,4.0,""
+Kuala-lumpur,Superstarz Fitness House ,"Lot G8 & G9 Plaza Menjalara, Jalan 8/62a, Bandar Menjalara,Kepong  52200 Kuala Lumpur, Kuala Lumpur, Malaysia",3.2037943,101.6413776,4.0,60362622595
+Kuala-lumpur,KLFitness247 ,45-1 Jalan Radin Tengah Bandar Baru Sri Petaling 57000 Kuala Lumpur,3.0685037,101.693579,4.0,""
+Kuala-lumpur,MetCon X ,"Central Park (Parking Space), Bandar Utama, Dataran Bandar Utama, Petaling Jaya, Selangor",3.150147,101.614967,4.0,""
+Kuala-lumpur,Rocksteady Fitness ,"A-3A-9 Pantai Business Park, Jalan Pantai Baharu, Bangsar",3.116612,101.66929,4.0,""
+Kuala-lumpur,Sunway Pyramid Ice ,"LG3 Sunway Pyramid, Jalan PJS 11/15, Bandar Sunway, 46150 Petaling Jaya, Selangor",3.073302,101.607606,4.0,""
+Kuala-lumpur,Misfit Dance Studio ,"Lot 61-2, Jalan Radin Bagus Zone J5, Bandar Baru Sri Petaling, 57000, Kuala Lumpur",3.0707324,101.6949235,4.0,""
+Kuala-lumpur,Anytime Fitness Kota Kemuning ,"No 1D, 4th Floor , Jalan Anggerik Vanilla X31/X, Kota Kemuning, Seksyen 31 Shah Alam, Selangor 40460 (Above RHB Bank)",3.005139,101.535771,4.0,""
+Kuala-lumpur,Fitness X ,"2-K-09, Viva Home Shopping Mall,  No.85, Jalan Loke Yew,  55200 Kuala Lumpur,  Malaysia",3.129582,101.711774,4.0,""
+Kuala-lumpur,Ferris Music & Dance ,"17-1 Jalan Malinja 2, Taman Bunga Raya, 53100 Kuala Lumpur",3.2126049,101.7285919,4.0,""
+Kuala-lumpur,Titanium Fitness ,"33-1, Jalan AWF 1, Ampang Waterfront, 68000  Ampang, Selangor",3.1470597,101.7672714,4.0,""
+Kuala-lumpur,Fifteen FIT Gym ,"Tingkat 3, No 10812, Jalan SS15/8, 47500 Subang Jaya",3.075078,101.590573,4.0,""
+Kuala-lumpur,Muscle Theory Fitness Factory ,"No.9, Jalan PJS11/24, Bandar Sunway, 46150 Subang Jaya, Selangor",3.0668896,101.6019499,4.0,60122039278
+Kuala-lumpur,MAYI AyurYoga ,"8-1 & 9-1, Jalan Paragon Utama 1, Selayang Utama, 68100 Batu Caves, Selangor",3.234025,101.641038,4.0,60361275693
+Kuala-lumpur,Extreme Sport and Fitness ,"B3-2-1, Jalan Teknologi 2/1B, Kota Damansara Signature Park, Kota Damansara, 47810 Petaling Jaya, Malaysia",3.151088,101.574504,4.0,""
+Kuala-lumpur,Xero Gravity Fitness Studio ,"Level 9, PJX HM Shah Tower, 16A, Persiaran Barat, Seksyen 52, 46200 Petaling Jaya, Selangor",3.104565,101.645414,4.0,""
+Kuala-lumpur,Anytime Fitness Fiesta ,"Unit F1, F2, F3, Jalan Cempaka, Taman Cempaka Ampang, Selangor",3.138371,101.748873,4.0,""
+Kuala-lumpur,Simply Yoga ,"Jalan Kabus, Kuala Ampang",3.167369,101.750721,4.0,""
+Kuala-lumpur,Team Thoo Gymnasium ,"The KLFA Football Centre, Jalan 6/4 Desa Melawati, Wilayah Persekutuan, 53100 Kuala Lumpur",3.22095,101.736048,4.0,""
+Kuala-lumpur,Caboco ,"B-16-1, Zenith Corporate Park, Jalan SS7/26, Kelana Jaya, 47301 Petaling Jaya, Selangor",3.1082816,101.598714,4.0,""
+Kuala-lumpur,SSF Gym ,"Unit 4-28-2,
+1st Floor, Persiaran Anggerik Vanilla,
+Section 31,
+40460 Kota Kemuning,
+Shah Alam",3.002867,101.5386,4.0,""
+Kuala-lumpur,SA Fitness & Gymnasium ,"Block A-1-1. Connaught Avenue, Jalan 9 Taman Bukit Cheras, 56000 Kuala Lumpur, Malaysia",3.078483,101.742565,4.0,""
+Kuala-lumpur,Yoga Space Studio ,"7-3, No. 8, Jalan Anggerik Vanilla, BE31/BE, Kota Kemuning Section 31, 40460 Shah Alam, Selangor",3.0028402,101.5386211,4.0,""
+Kuala-lumpur,Anna Fitness ,"4A, Jalan Pelabur A 23/A, Seksyen 23, 40300 Shah Alam, Selangor",3.044357,101.526436,4.0,""
+Kuala-lumpur,Rev It Up Fitness Dance Studio ,"No. 94, Jalan 8/62A, Bandar Menjalara, 52200 Kepong, Kuala Lumpur, Malaysia",3.19282,101.628899,4.0,""
+Kuala-lumpur,EGO Fitness ,"I-2-2, Jalan PJU 1A/20F, Dataran Ara Damansara, 47301 Petaling Jaya, Malaysia",3.1195061,101.5791676,4.0,60378598970
+Kuala-lumpur,Lee Martial Arts Studio ,"103-B, Block B, Jalan PJS 11/2,  47500 Subang Jaya.",3.072721,101.603215,4.0,""
+Kuala-lumpur,Dharana Yoga Studio ,"No. 1-1, Jalan 3/109E, Jalan Desa Business Park, 58100 Kuala Lumpur",3.097331,101.677883,4.0,""
+Kuala-lumpur,Pain & Gain Fitness ,"No.1, Jalan Tengku Ampuan Zabedah B, 9/B Seksyen 9 Shah Alam, 40100 Shah Alam",3.081339,101.527604,4.0,""
+Kuala-lumpur,UMAAC Kickboxing Academy ,"26-3 Jalan PJU 5/10, Dataran Sunway, Kota Damansara, 47810 Petaling Jaya, Selangor, Malaysia",3.151465,101.593336,4.0,""
+Kuala-lumpur,Surya Yoga ,"No.2A, Jalan BS9, Taman Bukit Segar, 43200 Cheras",3.09368,101.753848,4.0,""
+Kuala-lumpur,Flex 'n Fit Gym ,"1-1 Jalan Cecawi 6/33, Seksyen 6, Kota Damansara, 47810 Petaling Jaya, Malaysia",3.1612908,101.5814356,4.0,""
+Kuala-lumpur,Our Gym Fitness Centre ,"No. 1A, Jalan SS2/64, 47300 Petaling Jaya, Selangor, Malaysia.",3.118226,101.61988,4.0,""
+Kuala-lumpur,Izza MMA ,"B-8-3-5, Signature Park, Jalan Teknologi 2/1a, Kota Damansara , 47810 Petaling Jaya, Selangor 47810",3.1578234,101.568305,4.0,""
+Kuala-lumpur,Leverage BJJ ,"Jalan Wan Kadir 3, Taman Tun Dr Ismail, 60000 Kuala Lumpur",3.137308,101.630311,4.0,""
+Kuala-lumpur,Arcana Gym ,"Lot 4, Panasonic National Sports Centre , Jalan Perkilangan , Seksyen 21 , 40300 Shah Alam, Selangor",3.0568,101.547177,4.0,""
+Kuala-lumpur,CrossColors Fitness ,"39/1 & 41-1Jalan 46A/26 Taman Sri Rampai, Kuala Lumpur, Malaysia",3.1955444,101.7313849,4.0,60341317202
+Kuala-lumpur,Dance2Fit Club ,"78A, Jalan Burhanuddin Helmi
+Taman Tun Dr Ismail
+60000 Kuala Lumpur
+Wilayah Persekutuan Kuala Lumpur",3.1523,101.620996,4.0,""
+Kuala-lumpur,Bluestar Fitness ,"No. 7, Tingkat 3, Jalan SS 15/7, Subang Jaya, Selangor 47500",3.07642,101.590115,4.0,""
+Kuala-lumpur,muscleZONE Fitness ,"D-1-4, Jalan Atmosphere 7, Pusat Perniagaan The Atmosphere, 43300 Seri Kembangan, Selangor",3.021998,101.7055411,4.0,""
+Kuala-lumpur,SSK Martial Arts Studio ,"33-4, Jalan Prima 7, Metro Prima, 52100 Kepong",3.212636,101.642338,4.0,""
+Kuala-lumpur,Signature Pilates Studio ,"No. 28, Jalan USJ 1/1C, Regalia Business Centre,  Taman Subang Mewah, Subang Jaya 47500",3.056289,101.605608,4.0,""
+Kuala-lumpur,Nakshatras Solutions ,"7A, 2nd Floor, Jalan Bangsar, 59200. Kuala Lumpur",3.129461,101.680445,4.0,60149054692
+Kuala-lumpur,Vivace Danz World ,"9-2, Jalan Perubatan 2  Pandan Indah  55100 Kuala Lumpur",3.128794,101.751612,4.0,""
+Kuala-lumpur,Synergy Fitness ,"No. 1-1, Jalan SP 2/1, Taman Serdang Perdana, 43300 Seri Kembangan, Selangor, Malaysia.",3.031648,101.708519,4.0,""
+Kuala-lumpur,Hazel Dance & Fitness ,"553B, Jalan Samudera Utara 1, Taman Samudera, 68100 Batu Caves, Selangor",3.235577,101.698714,4.0,""
+Kuala-lumpur,Real Fit - Group Training ,"11C Jalan 51A/227A, 41600 Petaling Jaya, Selangor (Behind Petronas, Jalan 222)",3.101424,101.630335,4.0,""
+Kuala-lumpur,Workout Fitness ,"10-1 & 10-2, Jalan Putra Permai 1/1B, Taman Equine, Seri Kembangan 43300 Selangor",2.996767,101.668177,4.0,""
+Kuala-lumpur,Nurul Fitness ,"39, Jalan Intan 2/7, Taman Puchong Intan, 47100 Puchong, Selangor, Malaysia.",3.016117,101.607391,4.0,60196332819
+Kuala-lumpur,Hero X Fitness ,"No 7 & 9, Jalan 16 Kampung Cheras Baru 56100 Kuala Lumpur Wilayah Persekutuan Kuala Lumpur",3.106138,101.747962,4.0,""
+Kuala-lumpur,Shamballa Tribeni ,"No 31B Jalan Bayu Tinggi 2B, Batu Unjur, Klang 41200 (Same row as Kuwait Finance House, above UTNT communication)",3.011075,101.439021,4.0,""
+Kuala-lumpur,Fitness Radar ,"J-2-5,  Block J, Jalan PJU 1A/4, Ara Damansara,
+ 47301 Petaling Jaya, Selangor",3.111981,101.584339,4.0,60162251571
+Kuala-lumpur,Golfzon Academy ,"2-3, Block D, Jalan Solaris 3, Solaris Mont Kiara, 50480 Kuala Lumpur",3.175008,101.659826,4.0,""
+Kuala-lumpur,CosmicFit Fitness Bootcamp ,"Setia Alam Central Park
+Jalan Setia Indah U13/10
+Setia Alam, Shah Alam,
+Selangor.",3.073281,101.518461,4.0,""
+Kuala-lumpur,Boi Fitness Gym ,Jalan Batu Muda Tambahan 5 Kampung Batu Muda Tambahan 51100 Kuala Lumpur Wilayah Persekutuan Kuala Lumpur,3.210892,101.690629,4.0,""
+Kuala-lumpur,Shaolin GC Showtime Academy ,"2, Jalan Puteri 5/5, Bandar Puteri, 47100 Puchong, Selangor",3.016454,101.614316,4.0,""
+Kuala-lumpur,Myraz Fitness Studio ,"No. 21 Jalan Putra Perdana 2/1, Taman Putra Perdana, 47100 Puchong, Selangor",2.9478385,101.618361,4.0,60162948001
+Kuala-lumpur,Megafit Centre ,Jalan Wangsa Delima 12 Wangsa Maju 53300 Kuala Lumpur Wilayah Persekutuan Kuala Lumpur,3.197738,101.742078,4.0,""
+Kuala-lumpur,Ding Martial Arts Gymnasium ,"3A, Jalan SS 4d/2, Taman People's Park, 47301 Petaling Jaya, Selangor",3.113259,101.599826,4.0,""
+Kuala-lumpur,Z Zesty Danz Fit Studio ,"32-2, Jalan Putra 2, Taman Putra Kajang, Selangor, 43000 Kajang, Malaysia",2.977691,101.773687,4.0,60192735440
+Kuala-lumpur,Ladies Centre ,"No 5-1, Jalan Opera D U2/D, Taman TTDI Jaya, Seksyen U2, Shah Alam",3.098461,101.556073,4.0,""
+Kuala-lumpur,Ranggo Gym & Fitness ,"No. 2, Jalan Kristal, J7/J, Seksyen 7, Shah Alam, Selangor 40000",3.074848,101.486769,4.0,""
+Kuala-lumpur,Kalai Brothers Boxing Gym & Fitness ,"Majilis Sukan Negara, AU2 Taman Keramat, 54200, Kuala Lumpur.",3.175919,101.749135,4.0,""
+Kuala-lumpur,Contours Express ,"41-1, Jalan Setia Indah X, U13/X Setia Alam 40710 Shah Alam",3.0988855,101.461805,4.0,""
+Kuala-lumpur,IconFit Club ,"9th Floor, Sport Arena, Menara Boustead 69, Jalan Raja Chulan 50200 Kuala Lumpur Malaysia",3.1504158,101.7085377,4.0,""
+Kuala-lumpur,Sports Arena ,"Jalan Seri Sentosa 2A, Taman Sri Sentosa, 58000 Kuala Lumpur.",3.0814318,101.6624857,4.0,""
+Kuala-lumpur,Jasmine Yoga House ,"No. 11B & C, Lorong Gudang Nanas 2, 41400, Klang, Selangor Darul Ehsan, Malaysia",3.048372,101.444884,4.0,""
+Kuala-lumpur,Hari2 Mau Gym ,"62, Jalan Nelayan 19/B, Seksyen 19, 40300 Shah Alam, Selangor, Malaysia",3.049281,101.534032,4.0,""
+Kuala-lumpur,WorkRight ,"OBD Garden Tower, Blk A, 3th Floor,300-3-1, Taman Desa, Old Klang Road, 58100 W. Persekutuan",3.10794,101.684002,4.0,60359934166
+Kuala-lumpur,Sim Yoga & Health ,"Lot 2-25, Jalan SP 2
+Taman Segar Perdana
+43200 Cheras
+Selangor",3.09133,101.761833,4.0,""
+Kuala-lumpur,The War3house ,"No. 751, Sub 23 & 24,
+Jalan Subang 3,
+Subang Jaya Industrial Park",3.050517,101.596795,3.9,""
+Kuala-lumpur,The Middle East Dance Studio ,"A-3A-05 Neo Damansara. No.1, Jalan PJU8/1 Bandar Damansara Perdana 47820, Petaling Jaya. Selangor Darul Ehsan.",3.164792,101.61339,3.9,60126270763
+Kuala-lumpur,Solid Life Fitness ,"B-3A-01, Ativo Plaza Persiaran Perdana Bandar Sri Damansara 52200 Kuala Lumpur Selangor, Malaysia",3.195985,101.616545,3.8,60178878471
+Kuala-lumpur,Gympark Fitness ,"No.38, Jalan Bayu Tinggi 1B/KS6,Bandar Bukit Tinggi 2,
+41200 Klang, Selangor D.E.",3.01314,101.438719,3.8,60333189455
+Kuala-lumpur,Dance with Zin Anna ,"Michael's Badminton Academy, Jalan SS24/10, Taman Megah, Petaling Jaya.",3.1147,101.6109,3.8,""
+Kuala-lumpur,GroovyFitZ Studio ,"B-111, Block B, Jln Persiaran Surian, Palm Spring @ Damansara, 47810 Petaling Jaya, Selangor, Malaysia",3.15089,101.598477,3.8,60122202039
+Kuala-lumpur,Muscle Republic ,"2-3, 2nd Floor, Jalan PJU8/5G, Damansara Perdana, 47820 Petaling Jaya",3.1666368,101.6061999,3.7,60194716369
+Kuala-lumpur,Versatile Resources ,"M2-09-02 Menara 8Trium, Bandar Sri Damansara, 52200 KL",3.197698,101.610786,3.6,60183680386
+Kuala-lumpur,Armada Hotel ,"Lot 6 Lorong Utara C, Section 52,  46200 Petaling Jaya, Selangor Darul Ehsan, Selangor, Malaysia",3.104228,101.640827,3.5,""
+Kuala-lumpur,Dancing Art Solutions ,"33-2, Jalan Bandar 18, Pusat Bandar Puchong, 47100, Selangor Malaysia",3.0388399,101.6157215,3.5,60123252606
+Kuala-lumpur,Shark Gym Fitness ,"1-09, Amaya Maluri, Jalan Jejaka 2 , Maluri , 55100 Kuala Lumpur",3.127586,101.729165,3.5,""
+Kuala-lumpur,DS Fitness ,"7-23M, 12, Jalan Jalil Perkasa 14, Aked Esplanad, 57000 Kuala Lumpur",3.062237,101.676255,3.5,""
+Kuala-lumpur,Ezy Gym ,"Parklane OUG, Jalan Puchong, 58200 Kuala Lumpur, Malaysia",3.067059,101.657898,3.5,""
+Kuala-lumpur,Ex8rcize ,"Bangunan EX8, No.3, Jalan SS13/4 Subang Jaya, 47500 Shah Alam, Selangor, Malaysia.",3.07006,101.595679,3.5,""
+Kuala-lumpur,Blitz Gym ,"1-2 Jalan SS15/8A, Subang Jaya, 47500 Selangor",3.074178,101.588872,3.5,60356130138
+Kuala-lumpur,Jasmin Yoga ,"87-3, Amber Business Plaza, Jln Jelawat 1, Cheras, 56000 Kuala Lumpur, Malaysia",3.1144548,101.7194652,3.5,""
+Kuala-lumpur,A Dance Academy ,"25B, Jalan Anggerik Aranda C31/C, Kota Kemuning, 40450 Shah Alam",3.001643,101.547629,3.5,""
+Kuala-lumpur,Real Fit - Personal Training ,"11C Jalan 51A/227A, 41600 Petaling Jaya, Selangor (Behind Petronas, Jalan 222)",3.101424,101.630335,3.5,""
+Kuala-lumpur,Apex Fitness ,"I-02&03, Block I, Jalan gc 11, Persiaran Apec, Glomac 2, 63000, Cyberjaya, 63000 Cyberjaya",2.925536,101.657253,3.5,""
+Kuala-lumpur,Alpha Gym ,"15-1 Jalan BS5/26A, Taman Bukit Serdang, 43300",3.023059,101.696129,3.5,""
+Kuala-lumpur,3F Studio ,"Rumah Kelab SUK Selangor, Sek 5, 40000 Shah Alam, Selangor",3.086247,101.51406,3.5,""
+Kuala-lumpur,Expendables Gym ,"F-2-3A & F-3-3, Blok F Pusat Komersial Parklane 21, Jalan SS7/26, Kelana Jaya, Selangor.",3.108222,101.593859,3.5,""
+Kuala-lumpur,The Dungeon Gym ,"A-2-06, BLOK A, JALAN PJU 1/A/41B, PUSAT DAGANGAN ARA,Ara Damansara, 47301 Petaling Jaya, Malaysia",3.112706,101.57504,3.5,""
+Kuala-lumpur,Fitness Studio & Gym ,"No 135-1, Jalan PUJ3/9, Taman Puncak Jalil, Bandar Putra Permai 43300, Seri Kembangan",3.029758,101.681997,3.5,""
+Kuala-lumpur,Muscle Lab ,"A-03-02, The Domain @ Neocyber, Lingkaran Cyberpoint Barat, 63000 Cyberjaya,  Selangor",2.922287,101.6488284,3.5,""
+Kuala-lumpur,MBS Studio ,"1, Jalan Maju 3/1, Taman Lembah Maju, 56100 Kuala Lumpur, Selangor",3.126001,101.756459,3.5,""
+Kuala-lumpur,Curvez Gym and Fitness Centre ,"252, Jalan Tun Sambanthan, Brickfields, 50470 Kuala Lumpur, Kuala Lumpur, Malaysia",3.128885,101.68399,3.5,""
+Kuala-lumpur,Fabulous Fitness Centre ,"69- 11 & 71-1, Tanming Boulevard, Jalan Meranti Jaya 3/1, Taman Meranti Jaya, 47120 Puchong, Selangor",2.9793788,101.6105598,3.5,""
+Kuala-lumpur,Gim Fitness Space ,"16A, Ayer @8, Jalan P8G1, Presint 8, Putrajaya",2.928448,101.678902,3.5,""
+Kuala-lumpur,Barradik Gym & Fitness ,"15A Jalan TBK 1/6, Taman Bukit Kinrara, 47180 Puchong",3.0412165,101.6359636,3.5,""
+Kuala-lumpur,Hyperflex Fitness ,"1-1 Pusat Perdagangan Selaseh, Jalan PPS 1, Gombak, 68100 Batu Caves",3.228462,101.697781,3.5,""
+Kuala-lumpur,O'ribond Dance Boxx ,"42-3 , Jalan 11/116B , Kuchai Enterpreneurs' Park, Kuala Lumpur, Malaysia",3.0891086,101.6887847,3.5,""
+Kuala-lumpur,Fit Factor Gym ,"No. 15-2, Jalan 6/155, Taman Perindustrian Bukit OUG, 58200 Kuala Lumpur",3.062264,101.663941,3.5,""
+Kuala-lumpur,All Star Fitness ,"No. 39-2, Jalan Pulau Lumut P U10/P Alam Budiman 40170 Shah Alam Selangor",3.144513,101.481821,3.5,""
+Kuala-lumpur,The Move Dance Studio ,"No.13-3-2, Jalan Setia Prima A/U13A, Setia Alam Sek U13A, 40170 Shah Alam, Malaysia",3.098689,101.44434,3.5,60192787950
+Kuala-lumpur,Peanut Butter Studio ,"T. 03A, Level 3, Klang Parade, No. 2112, 
+S10, Jalan Meru
+Kawasan 17
+41300 Klang, Selangor",3.064343,101.453401,3.5,6010-5660033
+Kuala-lumpur,Damansara Dementors ,"Jalan BU 4/1, Bandar Utama, 47800 Petaling Jaya, Selangor",3.152415,101.608093,3.5,""
+Kuala-lumpur,Europe Football Academy ,"SK Bandar Sri Damansara 1, Bdr Sri Damansara 52200 KL",3.1846747,101.6047996,3.5,""
+Kuala-lumpur,Ceroc Malaysia ,"The Bee Publika, 36, Level G2, Publika Mall, 1, Jalan Dutamas 1, Solaris Dutamas, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",3.171174,101.667649,3.5,""
+Kuala-lumpur,Get Smart Gym & Fitness ,"2 Floor ZP-18 and 19, Zest Point, Lebuhraya Bukit Jalil BK-9, 47100 Puchong, Selangor",3.02534,101.617767,3.0,""
+Kuala-lumpur,Zen Music Ballet Studio ,"1-21, Jalan Kuchai Maju 1, Entrepreneurs Park, 58200 Kuala Lumpur",3.0910288,101.6895073,3.0,""
+Kuala-lumpur,Diamond Fitness & Gym ,"No. 49-1 Jalan Damai Niaga, Alam Damai Cheras 56000 Kuala Lumpur",3.074535,101.736198,3.0,60129139484
+Kuala-lumpur,Real Fit ,"11C Jalan 51A/227A, 41600 Petaling Jaya, Selangor (Behind Petronas, Jalan 222)",3.101424,101.630335,3.0,""
+Kuala-lumpur,Redline Fitness ,"Jalan Cecawi 6/19B, 47810 Petaling Jaya, Malaysia",3.15915,101.574229,3.0,""
+Kuala-lumpur,Fast Gain Gym and Fitness ,"No. 1B, Jalan Nelayan A 19/A, Seksyen 19, 40300 Shah Alam, Selangor",3.048717,101.535647,3.0,""
+Kuala-lumpur,My Dancesport Academy ,"D-3-16, Putra Majestik, 2A, Jln Kasipillay off Jln Ipoh, Kuala Lumpur, Malaysia, 51200",3.174557,101.6843332,3.0,""
+Kuala-lumpur,TechnoFlex Fitness Club ,"Tingkat 5, Rumah Usahawan 4, Lebuhraya Puchong - Sg. Besi, Bukit Jalil , 57000 Kuala Lumpur, Malaysia",3.052189,101.6889862,2.5,603-89982020
+Kuala-lumpur,Muscle Camp Gym ,"33A, Jalan Dato Haji Harun, Taman Taynton View, 56000 Cheras,",3.0877818,101.737822,2.5,""
+Kuala-lumpur,Athlete Fitness Gym ,"103-B, Block B, Jalan PJS 11/2,  47500 Subang Jaya.",3.072721,101.603215,2.5,""
+Kuala-lumpur,Kakigym ,"35-36, 2nd Floor, Jalan Prima Saujana 1/1A, Taman Prima Saujana, 43000 Kajang, Selangor",3.006385,101.805571,2.5,""
+Kuala-lumpur,ZRII Dance Studio ,"51B, JALAN ANGGERIK VANILLA N31/N, KOTA KEMUNING, 40460 Shah Alam, Malaysia
+(Same Row with Ayamas & Guardian Pharmacy)",3.0029773,101.5388694,2.5,""
+Kuala-lumpur,Xryss Fitness ,"Metropolitan Square Condo, Jalan PJU8/1, PJU8 Damansara Perdana",3.166012,101.607925,2.5,""
+Kuala-lumpur,OUG Gym ,"138, Jalan Hujan Rahmat, Taman OUG, 58200 Kuala Lumpur",3.0739496,101.6731572,2.0,60163201994
+Kuala-lumpur,Aesthetic Fitness Centre ,"No 27-3 , Jalan Elektron J U16/j , E Boulevard Denai Alam, 40160 Shah Alam, Malaysia",3.160055,101.512941,1.5,""
+Kuala-lumpur,Divyam Dance Academy ,"4-2, Jalan Damai Utama 2, Taman Damai Utama, Bandar Kinrara, 47180 Puchong",3.033068,101.66492,1.0,""
+Kuala-lumpur,E-Fit Gymnasium ,"No 105-1, Jalan 17/42, 
+Taman Lawa, Segambut,,
+51200 Kuala Lumpur, Malaysia",3.197444,101.665899,1.0,""
+Kuala-lumpur,HKA Fitness ,"1-b - Jalan Keluli Am7/Am Kawasan Perniagaan Bukit Raja Seksyen 7, 40000 Shah Alam Selangor",3.065608,101.474472,,""
+Kuala-lumpur,Yuber Sports ,"A-2-7, Jalan Wan Kadir 3, Taman Tun Dr. Ismail, 60000 Kuala Lumpur",3.1385648,101.6298529,,""
+Kuala-lumpur,Jazzercise Jenjarom ,"7, Tingkat 1, Jalan Bacang 17, Taman Sri Jarom Jenjarom, Selangor 42600",2.871761,101.494451,,60123060211
+Kuala-lumpur,Test Name ,test,45.0,101.0,,""
+Kuala-lumpur,Planet Taekwondo Martial Art Academy ,"12-4-1, Jalan Setia Prima G U13/G, Setia Alam, 40170 Shah Alam, Selangor, Malaysia",3.096454,101.444912,,""
+Kuala-lumpur,Zest Martial Arts Academy ,"No. 14-1, Jalan Sri Bintang 4, Taman Sri Bintang, 52100 Kuala Lumpur",3.187028,101.642742,,""
+Kuala-lumpur,Fit67 Gym ,"20-2, Jalan Elektron H U16/H, Sek U16, Denai Alam, 41060 Shah Alam, Selangor",3.160702,101.514075,,""
+Kuala-lumpur,Jazzercise Denai Alam ,"Studio Lantai Seni, No 1-3, Jln Elektron DU16/D, eBoulevard, Seksyen 16 Denai Alam, Selangor 40150",3.161998,101.511599,,""
+Kuala-lumpur,Jazzercise Bukit Tinggi ,"41-1, Lorong Batu Nilam, 21C, Bandar Bukit Tinggi, 41200 Klang, Selangor",2.998439,101.443377,,60193873193
+Kuala-lumpur,Soul Dance Studio ,"6-2, Jalan Kiara 1, Kawasan Perniagaan Kiara, 43500 Semenyih, Selangor, Malaysia",2.962971,101.837178,,""
+Kuala-lumpur,Street Cool ,"30-G, 30-1, Jalan Equine 1G, Pusat Komersil Equine,Taman Equine, 43300 Seri Kembangan, Selangor.",2.997793,101.677802,,""
+Kuala-lumpur,Iron Gym and Fitness Centre ,"21, Jalan Kristal As7/As, Seksyen 7, 40000 Shah Alam, Selangor, Malaysia",3.076242,101.488813,,""
+Kuala-lumpur,Caveman Fitness ,"B1 - 12A - 2, Jalan11/108C MidFields Square West SG Besi, Kuala Lumpur, Malaysia",3.095912,101.699626,,60126767567
+Kuala-lumpur,Yoga Krunch ,"L-2-2, Plaza Damas Phase II,, No. 60, Jalan Sri Hartamas 1, 50480 Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",3.16385,101.656247,,60126252669
+Kuala-lumpur,Black & White Fitness Studio ,"3.04-3.06, Level 3, KL Gateway, No.2 Jalan Kerinchi Gerbang, Kerinchi Lestari, 59200 Kuala Lumpur",3.113795,101.662882,,""
+Kuala-lumpur,K Nation Dance Studio ,"No. 67-1, Jalan Nautika BU20B, Pusat Komersil Tsb, Tsb Sungai Buloh, 40160 Selangor",3.208751,101.571927,,""
+Kuala-lumpur,Fastrack Gym & Fitness Centre ,"1-1, Jalan Seri Rejang 4, Rampai Business Park, 53300 Kuala Lumpur",3.194805,101.726956,,""
+Kuala-lumpur,Uncube Studio ,"The Cube, 21-G, 21-1, Jalan Puteri 7/15, Bandar Puteri Puchong",3.020271,101.625124,,""
+Kuala-lumpur,Yoga Essence ,"17 Jalan Menerung Dua Taman Sa, Damansara Heights, 59000 Kuala Lumpur, Malayisa",3.143349,101.666008,,""
+Kuala-lumpur,Jazzercise Alam Budiman ,"No.43, Jalan Pulau Lumut U10/76, Alam Budiman Seksyen 10, Shah Alam, Selangor 40170, Malaysia",3.142367,101.476476,,""

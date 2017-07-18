@@ -8,7 +8,7 @@ class Scraper
      @mechanize = Mechanize.new
 	end
 
-  #partners page is paginated, so we need to get total number of pages
+  #Partners page is paginated, so we need to get total number of pages
 	def get_total_pages
 		url = "#{@base_url}partners?city=#{@city}"
 		page = @mechanize.get(url)
@@ -41,7 +41,12 @@ class Scraper
 			lat_lng = scrap_page.search('.studio-sidebar script')[0].children.to_s.split("LatLng")[1].split("'")
 	    latitude =  lat_lng[1].strip
 	    longitude =  lat_lng[3].strip
-	    average_rating = scrap_page.search(".rating")[0].text.strip
+      #For some partners raring is not available
+	    if rating = scrap_page.search(".rating")
+	   		 average_rating = rating[0].text.strip if rating[0]
+	   	else
+         average_rating = 0
+	   	end
 	    phone = get_partner_phone_no(scrap_page)
 			csv_data << [@city.capitalize, partner_name, address,latitude,longitude,average_rating,phone]
 		end
@@ -55,13 +60,17 @@ class Scraper
 
   # Getting contact number if available
 	def get_partner_phone_no(page)
-		schdule_btn = page.search("td.reserve-col .btn-transaction")
-		if !schdule_btn.empty?
-        schdule = schdule_btn[0]["href"]
-			  schdule_page = @mechanize.get(@base_url+schdule)
-        phone = schdule_page.search(".list-unstyled.activity-slot-details")[0].search("li:last").text.split("+")[1]
-		else
-			phone = ""
+		begin
+			schdule_btn = page.search("td.reserve-col .btn-transaction")
+			if !schdule_btn.empty?
+	        schdule = schdule_btn[0]["href"]
+				  schdule_page = @mechanize.get(@base_url+schdule)
+	        phone = schdule_page.search(".list-unstyled.activity-slot-details")[0].search("li:last").text.split("+")[1]
+			else
+				phone = ""
+			end
+		rescue Exception => e
+        phone = ""
 		end
 		return phone
 	end
@@ -82,5 +91,5 @@ p '-------------------------------------------'
 p 'Export to CSV'
 export_csv = scrape.export_csv(csv_data)
 p '-------------------------------------------'
-p "Done! yeah!!"
+p "Done! Yeah!!"
 
