@@ -31,7 +31,7 @@ class Scraper
   # Fetching details from partners URLs
 	def scrape_details(partner_urls)
 		csv_data = []
-		csv_data <<  ["City","Partner Name","Address","Latitude","Longitude"]
+		csv_data <<  ["City","Partner Name","Address","Latitude","Longitude","Avarage Rating","Phone Number"]
 
 		partner_urls.each do |url|
 			p 'Started scraping '+ url
@@ -42,15 +42,29 @@ class Scraper
 	    latitude =  lat_lng[1].strip
 	    longitude =  lat_lng[3].strip
 	    average_rating = scrap_page.search(".rating")[0].text.strip
-			csv_data << [@city.capitalize, partner_name, address,latitude,longitude,average_rating]
+	    phone = get_partner_phone_no(scrap_page)
+			csv_data << [@city.capitalize, partner_name, address,latitude,longitude,average_rating,phone]
 		end
     return csv_data
 	end
 
+  # Export to CSV file
 	def export_csv(csv_data)
 		File.write("kfit_partners.csv", csv_data.map(&:to_csv).join)
 	end
 
+  # Getting contact number if available
+	def get_partner_phone_no(page)
+		schdule_btn = page.search("td.reserve-col .btn-transaction")
+		if !schdule_btn.empty?
+        schdule = schdule_btn[0]["href"]
+			  schdule_page = @mechanize.get(@base_url+schdule)
+        phone = schdule_page.search(".list-unstyled.activity-slot-details")[0].search("li:last").text.split("+")[1]
+		else
+			phone = ""
+		end
+		return phone
+	end
 end
 
 scrape = Scraper.new
@@ -63,8 +77,10 @@ p 'Get Partners URL'
 partner_urls = scrape.get_partners_url(total_pages)
 p '-------------------------------------------'
 p 'Scrape  Details'
-p csv_data = scrape.scrape_details(partner_urls)
+ csv_data = scrape.scrape_details(partner_urls)
 p '-------------------------------------------'
 p 'Export to CSV'
 export_csv = scrape.export_csv(csv_data)
+p '-------------------------------------------'
+p "Done! yeah!!"
 
